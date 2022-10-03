@@ -1,0 +1,36 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align:center;
+  }
+
+  #Dinosaurs {
+    text-align:center;
+  }
+
+  #Trexbtn {
+    background-color: #44af69;
+    text-align:center;
+  }
+
+  #Stegosaurusbtn {
+    background-color: #f8333c;
+    text-align:center;
+  }
+
+  #Triceratopsbtn {
+    background-color: #fcab10;
+    text-align:center;
+  }
+
+  #Spinosaurusbtn {
+    background-color: #2b9eb3;
+    text-align:center;
+  }
+
+  #Velociraptorbtn {
+    background-color: #dbd5b5;
+    text-align:center;
+  }
