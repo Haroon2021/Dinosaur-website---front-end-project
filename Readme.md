@@ -1,10 +1,5 @@
+This is a front end project with a user interface that allows a user to learn about different dinosaurs they are interested in.
 
-
-https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html 
-
-https://blog.hubspot.com/marketing/jump-link-same-page 
-
-https://www.youtube.com/watch?v=xHFzQ8QRjGU 
-
+Just run the index.html file and you can click on the dinosaur youare interested in.
 
 
